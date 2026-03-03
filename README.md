@@ -1,16 +1,46 @@
-## Hi there 👋
+# Merhaba, ben Berk Berat Turan 👋  
+### AI / ML Engineer | GenAI & LLM Sistemleri
 
-<!--
-**BerkBerat/BerkBerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Derin öğrenme, büyük dil modelleri (LLM), AI Agents ve Retrieval-Augmented Generation (RAG) sistemleri üzerine çalışıyorum.  
+Amacım yalnızca akademik projeler geliştirmek değil, gerçek dünya problemlerine uygulanabilir, üretime hazır yapay zeka çözümleri tasarlamak.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Çalışma Alanlarım
+
+- 🔹 Büyük Dil Modelleri (LLM) 
+- 🔹 Retrieval-Augmented Generation (RAG)
+- 🔹 Doğal Dil İşleme (NLP)
+- 🔹 Derin Öğrenme (CNN, RNN, LSTM, GAN)
+- 🔹 Model eğitimi ve optimizasyon süreçleri
+
+---
+
+## 🧠 Teknoloji Yığını
+
+**Programlama Dilleri:**  
+Python, Java, NodeJS, C  
+
+**AI / ML:**  
+PyTorch, TensorFlow, Scikit-learn, HuggingFace Transformers  
+
+**GenAI & LLM:**  
+Fine-tuning, Embedding modelleri, Vektör veritabanları, RAG mimarileri  
+
+**Araçlar:**  
+Git, Docker, Jupyter Notebook, Linux (Ubuntu)
+
+---
+
+## 📈 Güncel Odak Noktam
+
+- Uçtan uca GenAI sistemleri geliştirmek
+- LLM fine-tuning süreçlerini iyileştirmek
+- AI destekli backend servisler tasarlamak
+
+---
+
+## 📫 İletişim
+
+- LinkedIn: (link)
+- Email: (mail)
