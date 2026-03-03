@@ -42,5 +42,7 @@ Git, Docker, Jupyter Notebook, Linux (Ubuntu)
 
 ## 📫 İletişim
 
-- LinkedIn: (link)
-- Email: (mail)
+- LinkedIn: [(link)](https://www.linkedin.com/in/berk-berat-turan/)
+- Medium: [(mail)](https://berkberat.medium.com/)
+- HugginFace: https://huggingface.co/BerkBerat
+- E-mail: brkberatturan@gmail.com
